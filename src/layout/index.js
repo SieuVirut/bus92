@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import MenuTop from './bus92/menu/MenuTop'
+import MenuTop from '../components/menu-top';
 
 class Layout extends Component {
 
